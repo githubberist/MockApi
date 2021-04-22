@@ -1,1 +1,379 @@
 
+{
+  "data": [
+    {
+      "Order": 0,
+      "render_type": "hero_rail",
+      "render_style": "hero_rail1",
+      "list": [
+        {
+          "id": "0",
+          "name": "X-Men: Dark Phoenix",
+          "image": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_Mogra_Phulaala_v2/4f529c22-87de-4c13-a52b-c28bb8e7f2d3._UR3000,600_SX1500_FMjpg_.jpg",
+          "description": "After rescue mission in space, jean Gray behaves unstably. The X-Men must find a waty to save her sour and our very planet from the menacing force.",
+          "image_port": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_Mogra_Phulaala_v2/f9c21a1e-b642-439b-90d2-21ca01762f33._UR1280,600_SX1500_FMjpg_.jpg",
+          "genere": "Superhero",
+          "director": "Simon Kinberg",
+          "starring": "James McAvoy, Michael Fassbender, Jennifer Lawrence",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+          "id": "1",
+          "name": "Ford v Ferrari",
+          "image": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_NGK_v3/9dd387bb-4d77-4894-91b8-a488f78adc0c._UR3000,600_SX1500_FMjpg_.jpg",
+          "description": "Carroll Shelby, an automotive designer, and Ken Miles, a race car driver, join hands to build a trailblazing vehicle and compete against the Ferrari race cars.",
+          "image_port": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_NGK_v3/506bb11a-4bd8-442c-8f0e-8b5d98188b15._UR1280,600_SX1500_FMjpg_.jpg",
+          "genere": "Sport/Drama",
+          "director": "James Mangold",
+          "starring": "Christian Bale, Matt Damon",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        },
+        {
+          "id": "2",
+          "name": "Tanhaji",
+          "image": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_2brokev2/en_us-hero_in_2brokev2-3000-600._UR3000,600_SX1500_FMjpg_.jpg",
+          "description": "Tanhaji, a Maratha warrior, is Shivaji Maharaj's trusted lieutenant. When the Mughals invade and conquer Kondhana fort, he sets out to reclaim it for his king and country.",
+          "image_port": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_2brokev2/en_us-hero_in_2brokev2-640-300._UR1280,600_SX1500_FMjpg_.jpg",
+          "genere": "Action/Historical drama",
+          "director": "Om Raut",
+          "starring": "Ajay Devgan, Kajol, Saif Ali Khan",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+        },
+        {
+          "id": "3",
+          "name": "Laxmii",
+          "image": "https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_LikeABoss/a973cc49-f258-4863-8a22-96de7700d885._UR3000,600_SX1500_FMjpg_.jpg",
+          "description": "Laxmii is a 2020 Indian Hindi-language comedy horror film written and directed by Raghava Lawrence in his first Bollywood directorial. A remake of his own 2011 Tamil film Kanchana, it stars Akshay Kumar and Kiara Advani in the lead roles.",
+          "image_port": "https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_LikeABoss/c0700c1e-8261-4d5a-a979-220de221eb95._UR1280,600_SX1500_FMjpg_.jpg",
+          "genere": "Adventure/Horror",
+          "director": "Raghava Lawrence",
+          "starring": "Akshay Kumar, Kiara Advani, Sharad Kelkar",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+        },
+        {
+          "id": "4",
+          "name": "Beauty and the Beast",
+          "image": "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_StreetDancer3D/e5f736e1-5272-4be2-b8c9-d8a9d461d45b._UR3000,600_SX1500_FMjpg_.jpg",
+          "description": "Belle, a village girl, embarks on a journey to save her father from a creature that has locked him in his dungeon. Eventually, she learns that the creature is an enchanted prince who has been cursed.",
+          "image_port": "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_StreetDancer3D/1e9868f7-eb39-449c-b960-d234c9238d4b._UR1280,600_SX1500_FMjpg_.jpg",
+          "genere": "Musical/Romance",
+          "director": "Bill Condon",
+          "starring": "Emma Charlotte, Dan Stevens, Luke Evans",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+        },
+        {
+          "id": "5",
+          "name": "Avengers: Infinity War",
+          "image": "https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_TheGoodDoctorS3/8e35e161-29aa-4026-a720-186cecc58d07._UR3000,600_SX1500_FMjpg_.jpg",
+          "description": "The Avengers must stop Thanos, an intergalactic warlord, from getting his hands on all the infinity stones. However, Thanos is prepared to go to any lengths to carry out his insane plan.",
+          "image_port": "https://m.media-amazon.com/images/S/sonata-images-prod/PV_IN_TheGoodDoctorS3/16b52330-df49-4d0e-a0da-55e20dcfb4c5._UR1280,600_SX1500_FMjpg_.jpg",
+          "genere": "Action/Sci-fi",
+          "director": "Joe Russo, Anthony Russo",
+          "starring": "Robert Downey, Jr., Chris Hemsworth, Chris evans, Scarlett johansson",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+        },
+        {
+          "id": "6",
+          "name": "The Lion King",
+          "image": "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_Arjunpatiala/3132cea0-b8f2-48a8-9066-85853a3fa9e7._UR3000,600_SX1500_FMjpg_.jpg",
+          "description": "Simba, a young lion prince, flees his kingdom after the murder of his father, Mufasa. Years later, a chance encounter with Nala, a lioness, causes him to return and take back what is rightfully his.",
+          "image_port": "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_Arjunpatiala/196ac57f-278a-4385-9d75-36ed6c6f0dbd._UR1280,600_SX1500_FMjpg_.jpg",
+          "genere": " Family/Adventure",
+          "director": "Jon Favreau",
+          "starring": "BeyoncÃƒÂ©, James Earl Jones, Donald Glover, Seth Rogen",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+        },
+        {
+          "id": "7",
+          "name": "Frozen II",
+          "image": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_Wonderwoman/f3047741-b135-498d-8fc5-118f78873799._UR3000,600_SX1500_FMjpg_.jpg",
+          "description": "Elsa the Snow Queen has an extraordinary gift -- the power to create ice and snow. But no matter how happy she is to be surrounded by the people of Arendelle, Elsa finds herself strangely unsettled. After hearing a mysterious voice call out to her, Elsa travels to the enchanted forests and dark seas beyond her kingdom -- an adventure that soon turns into a journey of self-discovery.",
+          "image_port": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_Wonderwoman/f500aa7e-0ea0-46ef-a0d7-d38c68f604af._UR1280,600_SX1500_FMjpg_.jpg",
+          "genere": "Animation/Family, Musical",
+          "director": "Jennifer Lee, Chris Buck",
+          "starring": "Idina Menzel, Kristen Bell, Jonathan Groff, Josh Gad",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+        },
+        {
+          "id": "8",
+          "name": "Avtar",
+          "image": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_SKTKS_v3/e2f8b135-7bf0-4744-8169-f3e0073372db._UR3000,600_SX1500_FMjpg_.jpg",
+          "description": "Jake, who is paraplegic, replaces his twin on the Na'vi inhabited Pandora for a corporate mission. After the natives accept him as one of their own, he must decide where his loyalties lie",
+          "image_port": "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_SKTKS_v3/830268f2-3fa9-4305-8b77-4346e6fcb383._UR1280,600_SX1500_FMjpg_.jpg",
+          "genere": "Sci-fi/Action",
+          "director": "James Cameron",
+          "starring": "Zoe Saldana, Sam Worthing, Sigourney Weaver, Stephen Lang",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+        }
+      ]
+    },
+    {
+      "Order": 1,
+      "render_type": "video_rail",
+      "render_style": "video_rail_land",
+      "title": "Recommendation",
+      "list": [
+        {
+          "id": "0",
+          "name": "X-Men: Dark Phoenix",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3696/623696-h",
+          "description": "After rescue mission in space, jean Gray behaves unstably. The X-Men must find a waty to save her sour and our very planet from the menacing force.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/529/820529-v",
+          "genere": "Superhero",
+          "director": "Simon Kinberg",
+          "starring": "James McAvoy, Michael Fassbender, Jennifer Lawrence",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+          "id": "1",
+          "name": "Ford v Ferrari",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3682/693682-h",
+          "description": "Carroll Shelby, an automotive designer, and Ken Miles, a race car driver, join hands to build a trailblazing vehicle and compete against the Ferrari race cars.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3148/813148-v",
+          "genere": "Sport/Drama",
+          "director": "James Mangold",
+          "starring": "Christian Bale, Matt Damon",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        },
+        {
+          "id": "2",
+          "name": "Tanhaji",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1020/651020-h",
+          "description": "Tanhaji, a Maratha warrior, is Shivaji Maharaj's trusted lieutenant. When the Mughals invade and conquer Kondhana fort, he sets out to reclaim it for his king and country.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7676/647676-v",
+          "genere": "Action/Historical drama",
+          "director": "Om Raut",
+          "starring": "Ajay Devgan, Kajol, Saif Ali Khan",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+        },
+        {
+          "id": "3",
+          "name": "Laxmii",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5350/825350-h",
+          "description": "Laxmii is a 2020 Indian Hindi-language comedy horror film written and directed by Raghava Lawrence in his first Bollywood directorial. A remake of his own 2011 Tamil film Kanchana, it stars Akshay Kumar and Kiara Advani in the lead roles.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7509/827509-v",
+          "genere": "Adventure/Horror",
+          "director": "Raghava Lawrence",
+          "starring": "Akshay Kumar, Kiara Advani, Sharad Kelkar",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+        },
+        {
+          "id": "4",
+          "name": "Beauty and the Beast",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2499/632499-h",
+          "description": "Belle, a village girl, embarks on a journey to save her father from a creature that has locked him in his dungeon. Eventually, she learns that the creature is an enchanted prince who has been cursed.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5304/675304-v",
+          "genere": "Musical/Romance",
+          "director": "Bill Condon",
+          "starring": "Emma Charlotte, Dan Stevens, Luke Evans",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+        },
+        {
+          "id": "5",
+          "name": "Avengers: Infinity War",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/4652/674652-h",
+          "description": "The Avengers must stop Thanos, an intergalactic warlord, from getting his hands on all the infinity stones. However, Thanos is prepared to go to any lengths to carry out his insane plan.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4655/674655-v",
+          "genere": "Action/Sci-fi",
+          "director": "Joe Russo, Anthony Russo",
+          "starring": "Robert Downey, Jr., Chris Hemsworth, Chris evans, Scarlett johansson",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+        },
+        {
+          "id": "6",
+          "name": "The Lion King",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7499/627499-h",
+          "description": "Simba, a young lion prince, flees his kingdom after the murder of his father, Mufasa. Years later, a chance encounter with Nala, a lioness, causes him to return and take back what is rightfully his.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4607/674607-v",
+          "genere": " Family/Adventure",
+          "director": "Jon Favreau",
+          "starring": "BeyoncÃƒÂ©, James Earl Jones, Donald Glover, Seth Rogen",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+        },
+        {
+          "id": "7",
+          "name": "Frozen II",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1078/651078-h",
+          "description": "Elsa the Snow Queen has an extraordinary gift -- the power to create ice and snow. But no matter how happy she is to be surrounded by the people of Arendelle, Elsa finds herself strangely unsettled. After hearing a mysterious voice call out to her, Elsa travels to the enchanted forests and dark seas beyond her kingdom -- an adventure that soon turns into a journey of self-discovery.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4430/674430-v",
+          "genere": "Animation/Family, Musical",
+          "director": "Jennifer Lee, Chris Buck",
+          "starring": "Idina Menzel, Kristen Bell, Jonathan Groff, Josh Gad",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+        },
+        {
+          "id": "8",
+          "name": "Avtar",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7367/607367-h",
+          "description": "Jake, who is paraplegic, replaces his twin on the Na'vi inhabited Pandora for a corporate mission. After the natives accept him as one of their own, he must decide where his loyalties lie",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4291/754291-v",
+          "genere": "Sci-fi/Action",
+          "director": "James Cameron",
+          "starring": "Zoe Saldana, Sam Worthing, Sigourney Weaver, Stephen Lang",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+        }
+      ]
+    },
+    {
+      "Order": 2,
+      "render_type": "video_rail",
+      "render_style": "video_rail_port",
+      "title": "Thriller",
+      "list": [
+        {
+          "id": "0",
+          "name": "X-Men: Dark Phoenix",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3696/623696-h",
+          "description": "After rescue mission in space, jean Gray behaves unstably. The X-Men must find a waty to save her sour and our very planet from the menacing force.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/529/820529-v",
+          "genere": "Superhero",
+          "director": "Simon Kinberg",
+          "starring": "James McAvoy, Michael Fassbender, Jennifer Lawrence",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+          "id": "1",
+          "name": "Ford v Ferrari",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/3682/693682-h",
+          "description": "Carroll Shelby, an automotive designer, and Ken Miles, a race car driver, join hands to build a trailblazing vehicle and compete against the Ferrari race cars.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3148/813148-v",
+          "genere": "Sport/Drama",
+          "director": "James Mangold",
+          "starring": "Christian Bale, Matt Damon",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        },
+        {
+          "id": "2",
+          "name": "Tanhaji",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1020/651020-h",
+          "description": "Tanhaji, a Maratha warrior, is Shivaji Maharaj's trusted lieutenant. When the Mughals invade and conquer Kondhana fort, he sets out to reclaim it for his king and country.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7676/647676-v",
+          "genere": "Action/Historical drama",
+          "director": "Om Raut",
+          "starring": "Ajay Devgan, Kajol, Saif Ali Khan",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+        },
+        {
+          "id": "3",
+          "name": "Laxmii",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5350/825350-h",
+          "description": "Laxmii is a 2020 Indian Hindi-language comedy horror film written and directed by Raghava Lawrence in his first Bollywood directorial. A remake of his own 2011 Tamil film Kanchana, it stars Akshay Kumar and Kiara Advani in the lead roles.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7509/827509-v",
+          "genere": "Adventure/Horror",
+          "director": "Raghava Lawrence",
+          "starring": "Akshay Kumar, Kiara Advani, Sharad Kelkar",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+        },
+        {
+          "id": "4",
+          "name": "Beauty and the Beast",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2499/632499-h",
+          "description": "Belle, a village girl, embarks on a journey to save her father from a creature that has locked him in his dungeon. Eventually, she learns that the creature is an enchanted prince who has been cursed.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5304/675304-v",
+          "genere": "Musical/Romance",
+          "director": "Bill Condon",
+          "starring": "Emma Charlotte, Dan Stevens, Luke Evans",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+        },
+        {
+          "id": "5",
+          "name": "Avengers: Infinity War",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/4652/674652-h",
+          "description": "The Avengers must stop Thanos, an intergalactic warlord, from getting his hands on all the infinity stones. However, Thanos is prepared to go to any lengths to carry out his insane plan.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4655/674655-v",
+          "genere": "Action/Sci-fi",
+          "director": "Joe Russo, Anthony Russo",
+          "starring": "Robert Downey, Jr., Chris Hemsworth, Chris evans, Scarlett johansson",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+        },
+        {
+          "id": "6",
+          "name": "The Lion King",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7499/627499-h",
+          "description": "Simba, a young lion prince, flees his kingdom after the murder of his father, Mufasa. Years later, a chance encounter with Nala, a lioness, causes him to return and take back what is rightfully his.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4607/674607-v",
+          "genere": " Family/Adventure",
+          "director": "Jon Favreau",
+          "starring": "BeyoncÃƒÂ©, James Earl Jones, Donald Glover, Seth Rogen",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+        },
+        {
+          "id": "7",
+          "name": "Frozen II",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/1078/651078-h",
+          "description": "Elsa the Snow Queen has an extraordinary gift -- the power to create ice and snow. But no matter how happy she is to be surrounded by the people of Arendelle, Elsa finds herself strangely unsettled. After hearing a mysterious voice call out to her, Elsa travels to the enchanted forests and dark seas beyond her kingdom -- an adventure that soon turns into a journey of self-discovery.",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4430/674430-v",
+          "genere": "Animation/Family, Musical",
+          "director": "Jennifer Lee, Chris Buck",
+          "starring": "Idina Menzel, Kristen Bell, Jonathan Groff, Josh Gad",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+        },
+        {
+          "id": "8",
+          "name": "Avtar",
+          "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/7367/607367-h",
+          "description": "Jake, who is paraplegic, replaces his twin on the Na'vi inhabited Pandora for a corporate mission. After the natives accept him as one of their own, he must decide where his loyalties lie",
+          "image_port": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4291/754291-v",
+          "genere": "Sci-fi/Action",
+          "director": "James Cameron",
+          "starring": "Zoe Saldana, Sam Worthing, Sigourney Weaver, Stephen Lang",
+          "video_type": "MP4",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+        }
+      ]
+    },
+    {
+      "Order": 3,
+      "render_type": "hero_rail",
+      "render_style": "hero_rail1",
+      "list": [
+        {
+          "id": "0",
+          "name": "X-Men: Dark Phoenix",
+          "image": "https://drive.google.com/uc?export=download&id=1bUNXWTCLOm1HJQoMnlYWbYDw9smjFfGM",
+          "description": "Laxmii is a 2020 Indian Hindi-language comedy horror film written and directed by Raghava Lawrence in his first Bollywood directorial. A remake of his own 2011 Tamil film Kanchana, it stars Akshay Kumar and Kiara Advani in the lead roles.",
+          "image_port": "https://drive.google.com/uc?export=download&id=1ETaBAjsfeZBCRFR-M6lvuap1r_ySvBVK",
+          "type": "ad",
+          "action_type": "launch",
+          "action_url": "https://www.youtube.com/user/yasserhareb"
+        },
+        {
+          "id": "1",
+          "name": "Ford v Ferrari",
+          "image": "https://drive.google.com/uc?export=download&id=19h_Bk9UZDl4cQXUJZRd-WIvl0-sGQcEd",
+          "description": "Tanhaji, a Maratha warrior, is Shivaji Maharaj's trusted lieutenant. When the Mughals invade and conquer Kondhana fort, he sets out to reclaim it for his king and country.",
+          "image_port": "https://drive.google.com/uc?export=download&id=1CeBgjFCHCJibrwVnkT2BAQSHuOqWzaZs",
+          "type": "shopping",
+          "action_type": "launch",
+          "action_url": "https://www.genomedia.ae/"
+        }
+      ]
+    }
+  ]
+}
